@@ -11,7 +11,7 @@
 
 ## 🧠 **¿Qué es NaufraBot V2?**
 
-🔥 **NaufraBot V2** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
+🔥 **WealthX. BOT** É uma versão aprimorada do clássico bot de WhatsApp, totalmente otimizado para funcionar 24 horas por dia, 7 dias por semana, em qualquer servidor e completamente gratuito no Termux, com mais comandos, melhor desempenho e maior estabilidade.",**.
 
 - 🚀 Compatible con la última versión de **Baileys**
 - 💬 Juegos RPG integrados
