@@ -1,7 +1,7 @@
 {
-  "name": "naufraBase",
+  "name": "wealthx",
   "version": "1.0.0",
-  "description": "Base creada desde cero y 100% midificable.",
+  "description": "Base criada desde o zero y 100% modificado.",
   "main": "index.js",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -32,6 +32,6 @@
     "qs": "^6.14.0",
     "request": "^2.88.2"
   },
-  "author": "Naufra",
+  "author": "WealthX",
   "license": "ISC"
 }
