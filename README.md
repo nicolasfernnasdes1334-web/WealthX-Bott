@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 **¿Qué es NaufraBot V2?**
+## 🧠 O que é o WealthX-Bott V2?**
 
 🔥 **WealthX. BOT** É uma versão aprimorada do clássico bot de WhatsApp, totalmente otimizado para funcionar 24 horas por dia, 7 dias por semana, em qualquer servidor e completamente gratuito no Termux, com mais comandos, melhor desempenho e maior estabilidade.",**.
 
@@ -27,8 +27,8 @@
 
 ---
 
-# 🔥INSTALACIÓN POR TERMUX.
-* Instala el termux [aqui](https://f-droid.org/repo/com.termux_118.apk)
+# 🔥INSTALAÇÃO POR TERMUX.
+* Instalação termux [aqui](https://f-droid.org/repo/com.termux_118.apk)
 
 > [!NOTE]
 > Copia los códigos uno por uno, no los pegues todos juntos a la vez.
