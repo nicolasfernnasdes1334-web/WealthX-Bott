@@ -1,6 +1,4 @@
-//Base 100% Editable creditos a Naufrabot 
-
-//Página oficial naufrabot.com
+//Base 100% Editavel creditos a WealthX 
 
 //Sígueme en todas mis redes para estar informados con las novedades de la base 
 
@@ -27,7 +25,7 @@ const util = require("util")
 const speed = require("performance-now");
 const mimetype = require('mime-types')
 const { exec, spawn, execSync } = require("child_process")
-let phoneNumber = "5199999999"; // cambiar número
+let phoneNumber = "5511915088274"; // cambiar número
 const axios = require("axios")
  const ffmpeg = require('fluent-ffmpeg')
  
@@ -119,7 +117,7 @@ return admins
 async function startProo() {
   console.clear();
   console.log(banner.string);
-  console.log(chalk.cyanBright("🔥 NaufraBot Base"));
+  console.log(chalk.cyanBright("🔥 WealthX Base"));
 
   // Estado de sesión
   const { state, saveCreds } = await useMultiFileAuthState("./session");
@@ -145,8 +143,7 @@ async function startProo() {
   // 🟢 Si no hay sesión registrada, generar el código de vinculación de 8 dígitos
   if (!sock.authState.creds.registered) {
     let number = await question(
-      chalk.cyan("📱 Escribe tu número de WhatsApp con código de país (solo números): ")
-    );
+      chalk.cyan("📱 Digite seu número do WhatsApp com o código do país (somente números): ")
     rl.close();
     number = number.replace(/[^0-9]/g, "");
 
@@ -155,12 +152,12 @@ async function startProo() {
       process.exit(1);
     }
 
-    console.log(chalk.yellow("⌛ Solicitando código de vinculación..."));
+    console.log(chalk.yellow("⌛ Solicitando código de vinculação WealthX..."));
     try {
       const code = await sock.requestPairingCode(number);
-      console.log(chalk.bgGreen.black("✅ CÓDIGO DE VINCULACIÓN:"), chalk.white(code));
+      console.log(chalk.bgGreen.black("✅ CÓDIGO DE VINCULAÇÃO:"), chalk.white(code));
     } catch (err) {
-      console.error(chalk.red("❌ Error al generar código de vinculación:"), err.message);
+      console.error(chalk.red("❌ Error ao generar código de vinculação:"), err.message);
       process.exit(1);
     }
   }
