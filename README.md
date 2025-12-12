@@ -13,12 +13,17 @@
 
 🔥 **WealthX. BOT** É uma versão aprimorada do clássico bot de WhatsApp, totalmente otimizado para funcionar 24 horas por dia, 7 dias por semana, em qualquer servidor e completamente gratuito no Termux, com mais comandos, melhor desempenho e maior estabilidade.",**.
 
-- 🚀 Compatible con la última versión de **Baileys**
-- 💬 Juegos RPG integrados
-- 🧩 100% perzonalizable
-- 📦 Descargas (videos, música, stickers)
-- 🤖 Funciones con IA integradas
-- 🛡️ Protección AntiLink y AntiSpam para tu grupo 
+🚀 Compatível com a versão mais recente do Baileys
+
+💬 Jogos RPG integrados
+
+🧩 100% personalizável
+
+📦 Downloads (vídeos, músicas, figurinhas)
+
+🤖 Funções com IA integradas
+
+🛡️ Proteção AntiLink e AntiSpam para o seu grupo 
 
 ---
 
@@ -48,6 +53,6 @@ cd Naufrabot-base
 node index
 ```
 
-# 💥CONTÁCTAME💥
+# 💥MEU NUMERO💥
 
-[![WhatsApp](https://img.shields.io/badge/mi_numero-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511915088274) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
+[![WhatsApp](https://img.shields.io/badge/mi numero-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511915088274) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
