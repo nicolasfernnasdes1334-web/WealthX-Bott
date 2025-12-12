@@ -140,12 +140,13 @@ async function startProo() {
     syncFullHistory: false,
   });
 
-  // 🟢 Si no hay sesión registrada, generar el código de vinculación de 8 dígitos
-  if (!sock.authState.creds.registered) {
-    let number = await question(
-      chalk.cyan("📱 Digite seu número do WhatsApp com o código do país (somente números): ")
-    rl.close();
-    number = number.replace(/[^0-9]/g, "");
+// 🟢 Si no hay sesión registrada, generar el código de vinculación de 8 dígitos
+if (!sock.authState.creds.registered) {
+  let number = await question(
+    chalk.cyan("📱 Digite seu número do WhatsApp com o código do país (somente números): ")
+  );
+  rl.close();
+  number = number.replace(/[^0-9]/g, "");
 
     if (!number) {
       console.log(chalk.red("❌ Número inválido."));
