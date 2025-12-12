@@ -212,7 +212,7 @@ const sol = `
  
 『 👥 Miembros actuales: ${mem} 』
 ✦━─⌬༓༒༓⌬─━✦
-`
+`; // 👈 **FECHA A CRASE AQUI**
 
 await sock.sendMessage(anu.id, {
   image: { url: "https://i.ibb.co/HDf3hw9J/20250702-214923.jpg" },
